@@ -31,6 +31,7 @@ int main() {
       break;
     default:
       printf("Wrong Choice!!!");
+      break;
     }
   }
   return 0;
